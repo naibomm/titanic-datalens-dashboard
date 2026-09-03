@@ -12,6 +12,7 @@
 ## 📊 Структура дашборда
 
 **ссылка на Yandex Datalens:** https://us.datalens-front.cloud.yandex.net/row54q7y5k9oa
+**ссылка на Google Диск с обоснованием выбора графиков:** https://drive.google.com/file/d/1u_1LjJgwjdAVKKwPyowt2t9dcmUe3Nqc/view?usp=sharing
 
 Дашборд построен так, чтобы пользователь мог быстро оценить общую картину, проверить гипотезы и углубиться в детали.
 
